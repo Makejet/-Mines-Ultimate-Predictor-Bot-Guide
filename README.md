@@ -30,12 +30,10 @@ The deeper you go, the higher the reward — but one wrong step ends the round.
 
 ## 📸 Visual Examples
 
-![Interface Screenshot](https://i.ibb.co/99z8fJYr/K-209-5-1-1.png)  
+![Interface Screenshot](https://i.ibb.co/gZpFvtBK/K-253.jpg)  
 *Clean dashboard displaying safe vs. risky cell metrics.*
 
-![Interface Screenshot](https://i.ibb.co/HpFzdZ8X/K-209-2-2-1-1.png) 
-
-![Interface Screenshot](https://i.ibb.co/qVtPjb8/K-209-4-1.png) 
+![Interface Screenshot](https://i.ibb.co/pjkx7nZd/K-254.jpg) 
 
 ---
 
